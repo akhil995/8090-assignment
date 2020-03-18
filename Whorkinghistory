@@ -1,0 +1,526 @@
+  291  touch -t 202003151802 hoo
+  292  ls
+  293  cat hoo 
+  294  ls
+  295  rm -rf hoo 
+  296  ls
+  297  clear
+  298  ls
+  299  cd 
+  300  cd Busa8090DV/
+  301  ls
+  302  cat Awsconnection.txt 
+  303  $ curl https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/annotation.tab
+  304  ls
+  305  cd ..
+  306  ls
+  307  touch man | grep -t
+  308  touch man | grep -i t
+  309  touch man 
+  310  touch --help | grep -i t
+  311  ls
+  312  rm -rf man file.txt examples.desktop 
+  313  ls
+  314  cd Busa8090DV/
+  315  ls
+  316  cat Awsconnection.txt 
+  317  vim
+  318  vim awscon
+  319  ls
+  320  chmod u+x awscon 
+  321  ./awscon 
+  322  sudo ./awscon 
+  323  chmod 777 awscon 
+  324  sudo ./awscon 
+  325  clear
+  326  vim awscon 
+  327  ls
+  328  vim awscon 
+  329  rm -rf awscon 
+  330  ls
+  331  vim awscon 
+  332  ls
+  333  rm -rf awscon 
+  334  ls
+  335  clear
+  336  ls
+  337  vim awscon.sh
+  338  ./awscon
+  339  ls
+  340  ./awscon.sh
+  341  sudo ./awscon.sh
+  342  clear
+  343  ls
+  344  chmod u+x awscon.sh 
+  345  ls
+  346  ./awscon.sh 
+  347  vim awscon.sh 
+  348  ./awscon.sh 
+  349  vim awscon.sh 
+  350  ./awscon.sh 
+  351  vim awscon.sh 
+  352  ./awscon.sh 
+  353  whereis cal
+  354  whereis bin
+  355  cd /usr/local/bin
+  356  ls
+  357  ls -a
+  358  cd ..
+  359  cd/
+  360  cd /
+  361  cp  /home/akhil/awscon.sh /usr/local/bin
+  362  sudo cp  /home/akhil/awscon.sh /usr/local/bin
+  363  cd /usr/local/bin
+  364  ls
+  365  ls -a
+  366  ls -l
+  367  ./awscon.sh
+  368  sudo ./awscon.sh
+  369  clear
+  370  ls
+  371  vim awscon.sh 
+  372  sudo chmod 777 awscon.sh 
+  373  cd /
+  374  cd /home/akhil/
+  375  ls
+  376  curl https://raw.githubusercontent.com/ankitha995/assignment/master/q18090assignment >> newer.sh
+  377  ls
+  378  ./newer.sh
+  379  sudo ./newer.sh
+  380  cd Busa8090DV/
+  381  ls
+  382  awscon
+  383  clear
+  384  cd /
+  385  rm -rf newer.sh 
+  386  ls
+  387  whereis bin
+  388  cd /usr/local/bin
+  389  ls
+  390  vim awscon.sh 
+  391  sudo ./awscon.sh
+  392  cp awscon.sh /home/akhil/
+  393  cd ..
+  394  cd /
+  395  cd /home/ak
+  396  cd /home/akhil/
+  397  ls
+  398  sudo ./awscon.sh
+  399  vim awscon.sh
+  400  sudo ./awscon.sh
+  401  mv awscon.sh Busa8090DV/
+  402  cd Busa8090DV/
+  403  sudo ./awscon.sh
+  404  ls
+  405  cd /user
+  406  cd /usr
+  407  ls
+  408  la -la | grep rc
+  409  clear
+  410  cd /home/
+  411  cd /akhil
+  412  ls
+  413  cd akhil
+  414  ls
+  415  vim .bashrc 
+  416  ~/.bashrc
+  417  sudo apt-get update
+  418  whereis bin
+  419  cd /user/local/bin 
+  420  cd /user/local
+  421  cd /
+  422  cd /user/local/bin 
+  423  cd 
+  424  cd /usr/local/bin 
+  425  ls -al | grep rc
+  426  ls -a
+  427  rm -rf awscon.sh 
+  428  sudo rm -rf awscon.sh 
+  429  ls
+  430  cd ..
+  431  ls 
+  432  cd ls -al
+  433  ls -al
+  434  clear
+  435  cd Busa8090DV/
+  436  ls
+  437  ./awscon.sh 
+  438  clear
+  439  cd ..
+  440  clear
+  441  cal 
+  442  whereis cal
+  443  cd /bin/bash
+  444  cd /
+  445  cd /usr/bin/bash
+  446  cd /usr/bin/
+  447  ls 
+  448  ls -al | grep bash
+  449  curl https://raw.githubusercontent.com/ankitha995/assignment/master/q18090assignment > n.sh
+  450  sudo ./n.sh
+  451  ls
+  452  cat n.sh 
+  453  ./n.sh
+  454  chmod u+x n.sh 
+  455  ./n.sh
+  456  touch a.txt b.txt c.txt 
+  457  ./n.sh
+  458  clear
+  459  ls -a
+  460  clear
+  461  ls
+  462  rm -rf a.txt b.txt c.txt n.sh 
+  463  clear
+  464  ls 
+  465  vim welcome.sh
+  466  ls
+  467  chmod u+x welcome.sh 
+  468  ./welcome.sh 
+  469  greetings
+  470  user
+  471  $user
+  472  ls
+  473  clear
+  474  whoami
+  475  ls 
+  476  ls -l
+  477  ls -i
+  478  ls -l | grep -i "we"
+  479  date +%A
+  480  date 
+  481  clear
+  482  vim test.sh
+  483  ls
+  484  chmod u+x test.sh 
+  485  ./test.sh 
+  486  vim
+  487  vim test.sh
+  488  ./test.sh 
+  489  vim test.sh
+  490  ./test.sh 
+  491  vim test.sh
+  492  ./test.sh 
+  493  vim test.sh
+  494  ./test.sh 
+  495  vim test.sh
+  496  ./test.sh 
+  497  vim test.sh
+  498  ./test.sh 
+  499  vim test.sh
+  500  ./test.sh 
+  501  vim test.sh
+  502  ./test.sh 
+  503  vim test.sh
+  504  ./test.sh 
+  505  vim test.sh
+  506  ./test.sh 
+  507  vim test.sh
+  508  ./test.sh 
+  509  sort -date
+  510  sort man 
+  511  man -sort 
+  512  man sort 
+  513  man sort | grep date
+  514  man sort | grep time
+  515  man sort | grep da
+  516  man sort 
+  517  ls | grep -t || grep -i
+  518  ls | grep -i
+  519  ls | grep i
+  520  ls
+  521  ls | grep i
+  522  ls man 
+  523  man ls | grep i
+  524  man ls | grep -i
+  525  man ls | grep t
+  526  qls
+  527  ls
+  528  ./test.sh 
+  529  vim test.sh
+  530  ./test.sh 
+  531  vim test.sh
+  532  ./test.sh 
+  533  vim test.sh
+  534  clear
+  535  ls man | grep -T
+  536  ls man | grep "-T"
+  537  man la | grep -T
+  538  man la | grep -
+  539  man ls | grep -T
+  540  man ls | grep "-T"
+  541  man ls | grep -
+  542  clear
+  543  ls | sort -t
+  544  sort --help
+  545  clear
+  546  sort -n | head -n 
+  547  ls -l | sort -n 
+  548  ls -l | sort -t
+  549  ls -lc | sort -n && 
+  550  ls -lc 
+  551  ls -l 
+  552  ls -lc 
+  553  ls -t
+  554  ls -tl
+  555  ls -tl | head -n
+  556  ls -tl | head -n1
+  557  ls -t | head -n
+  558  ls -t | head -n1
+  559  ls -lv
+  560  ls -l
+  561  ls -lv
+  562  ls -l
+  563  ls -r
+  564  ls -lr
+  565  ls -t | head -n1
+  566  ls -tU | head -n1
+  567  ls -t | head -n1
+  568  ls -l | sort -K 
+  569  sort -K | ls
+  570  sort -K la
+  571  test 
+  572  ls
+  573  ls -t R
+  574  ls -ht   
+  575  ls -lht   
+  576  man ls
+  577  man ls | grep secondds
+  578  man ls | grep se
+  579  man ls | grep sec
+  580  time
+  581  time test.sh
+  582  test.ch time
+  583  ls -c 
+  584  ls -lc 
+  585  date 
+  586  date +%A
+  587  stat test.sh
+  588  stat %W test.sh 
+  589  stat test.sh %W
+  590  man stat
+  591  stat --format=%W test.sh
+  592  stat --format=%i test.sh
+  593  stat --format=%g test.sh
+  594  stat --format=%G test.sh
+  595  stat --format=%w test.sh
+  596  stat --format=%y test.sh
+  597  stat --format=%W test.sh
+  598  stat --format=%w test.sh
+  599  stat --format=%X test.sh
+  600  stat --format=%y test.sh
+  601  stat --format=%T test.sh
+  602  date -r
+  603  ls -l test.sh | cut -d ' ' -f '6-8'
+  604  stat -c '%y' test.sh
+  605  ls
+  606  vim test.sh
+  607  ./test.sh 
+  608  vim test.sh
+  609  ./test.sh 
+  610  vim test.sh
+  611  ./test.sh 
+  612  vim test.sh
+  613  ./test.sh 
+  614  vim test.sh
+  615  ./test.sh 
+  616  vim test.sh
+  617  ./test.sh 
+  618  vim test.sh
+  619  ./test.sh 
+  620  vim test.sh
+  621  ls
+  622  ls
+  623  history | grep rsync
+  624  ./test.sh 
+  625  ./newer.sh 
+  626  chmod 777 newer.sh 
+  627  ls
+  628  ./newer.sh 
+  629  touch file1.txt 
+  630  ./newer.sh 
+  631  vim newer.sh 
+  632  ./newer.sh 
+  633  vim newer.sh 
+  634  ./newer.sh 
+  635  vim newer.sh 
+  636  ./newer.sh 
+  637  vim newer.sh 
+  638  ./newer.sh 
+  639  ./newer.sh 
+  640  vim newer.sh 
+  641  clear
+  642  ls
+  643  touch foo.txt
+  644  ls
+  645  vim foo.txt 
+  646  cat foo.txt 
+  647  clear
+  648  vim test_me.sh
+  649  chmod 777 test_me.sh 
+  650  ./test_me.sh foo
+  651  ./test_me.sh 
+  652  vim test_me.sh
+  653  ./test_me.sh
+  654  vim test_me.sh
+  655  ./test_me.sh foo
+  656  ./test_me.sh foo.txt
+  657  clear'
+  658  clear
+  659  ls
+  660  ./test_me.sh foo.txt
+  661  vim test_me.sh
+  662  ./test_me.sh foo.txt
+  663  vim test_me.sh
+  664  ./test_me.sh foo.txt
+  665  ./test_me.sh fod.txt
+  666  clear
+  667  ./test_me.sh foo.txt
+  668  vim test_me.sh
+  669  ./test_me.sh foo.txt
+  670  ./test_me.sh 
+  671  vim test_me.sh
+  672  rm -rf foo.txt 
+  673  ls
+  674  vim test_me.sh
+  675  ./test_me.sh 
+  676  ./test_me.sh foo
+  677  vim test_me.sh
+  678  ./test_me.sh foo
+  679  vim test_me.sh
+  680  ./test_me.sh foo
+  681  vim test_me.sh
+  682  vim newer.sh 
+  683  ./newer.sh 
+  684  clear
+  685  vim test_me.sh
+  686  ./test_me.sh 
+  687  ./test_me.sh ah
+  688  ./test_me.sh foo
+  689  vim test_me.sh
+  690  ./test_me.sh foo
+  691  ./test_me.sh 
+  692  ./test_me.sh t
+  693  ./test_me.sh 
+  694  test
+  695  vim test_me.sh
+  696  ./test_me.sh 
+  697  vim test_me.sh
+  698  ./test_me.sh 
+  699  vim test_me.sh
+  700  vim bla.sh
+  701  chmod u+x bla.sh
+  702  ./bla.sh
+  703  ./bla.sh g
+  704  rm -rf bla
+  705  ls
+  706  rm -rf bla.sh 
+  707  ls
+  708  clear
+  709  vim test_me.sh
+  710  ./test_me.sh l
+  711  ./test_me.sh 
+  712  vim test_me.sh
+  713  ./test_me.sh kk
+  714  vim test_me.sh 
+  715  ./test_me.sh 
+  716  cd /
+  717  cd /home/akhil/
+  718  ls
+  719  curl https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/chapter-10-shell-programming--time-signal.sh
+  720  ls
+  721  sudo curl -o /usr/bin/time-signal.sh https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/chapter-10-shell-programming.sh
+  722  sudo curl -o /usr/bin/time-signal.sh https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/chapter-10-shell-programming--time-signal.sh
+  723  $expr 12 + 8 
+  724  expr 12 + 8 
+  725  echo 12+8
+  726  echo "12+8"
+  727  date +%I
+  728  2+3
+  729  ((2+3))
+  730  ls
+  731  curl https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/chapter-10-shell-programming--time-signal.sh >> ~/bin
+  732  ~/bin
+  733  sudo ~/bin
+  734  ls
+  735  cat bin 
+  736  rm -rf bin
+  737  ls
+  738  curl https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/chapter-10-shell-programming--time-signal.sh >> /usr/bin/time-signal.sh
+  739  sudo curl https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/chapter-10-shell-programming--time-signal.sh >> /usr/bin/time-signal.sh
+  740  sudo curl https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/chapter-10-shell-programming--time-signal.sh > /usr/bin/time-signal.sh
+  741  clear
+  742  sudo curl -o /usr/bin/time-signal.sh https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/chapter-10-shell-programming--time-signal.sh 
+  743  cd /
+  744  cd /usr/bin
+  745  ls
+  746  ls | grep sig
+  747  vim time-signal.sh 
+  748  sudo 
+  749  chmod u+x time-signal.sh 
+  750  sudo chmod u+x time-signal.sh 
+  751  ./time-signal.sh 
+  752  sudo ./time-signal.sh 
+  753  vim time-signal.sh 
+  754  sudo ./time-signal.sh 
+  755  vim time-signal.sh 
+  756  sudo chmod 777 time-signal.sh 
+  757  vim time-signal.sh 
+  758  sudo ./time-signal.sh 
+  759  vim time-signal.sh 
+  760  sudo ./time-signal.sh 
+  761  cd ..
+  762  cd /
+  763  ls
+  764  cd home/
+  765  cd ..
+  766  sudo curl -o /usr/bin/time-signal.sh https://www.staff.hs-mittweida.de/~wuenschi/data/media/compbiolbook/chapter-10-shell-programming--time-signal.sh clear
+  767  clear
+  768  cd /usr/bin
+  769  ./time-signal.sh 
+  770  vim time-signal.sh 
+  771  ./time-signal.sh 
+  772  clear
+  773  vim time-signal.sh 
+  774  ./time-signal.sh 
+  775  vim time-signal.sh 
+  776  ./time-signal.sh 
+  777  vim time-signal.sh 
+  778  clear
+  779  ls
+  780  ls | grep shel
+  781  ls | grep sign
+  782  vim time-signal.sh 
+  783  rm -rf time-signal.sh 
+  784  sudo rm -rf time-signal.sh 
+  785  ls | grep sign
+  786  ls
+  787  ls | grep signal
+  788  vim time-signal.sh 
+  789  chmod 777 time-signal.sh 
+  790  sudo chmod 777 time-signal.sh 
+  791  ./time-signal.sh 
+  792  vim time-signal.sh 
+  793  ./time-signal.sh 
+  794  vim time-signal.sh 
+  795  ./time-signal.sh 
+  796  vim time-signal.sh 
+  797  ./time-signal.sh 
+  798  vim time-signal.sh 
+  799  ./time-signal.sh 
+  800  vim time-signal.sh 
+  801  ./time-signal.sh 
+  802  vim time-signal.sh 
+  803  ./time-signal.sh 
+  804  vim time-signal.sh 
+  805  ./time-signal.sh 
+  806  vim time-signal.sh 
+  807  ./time-signal.sh 
+  808  vim time-signal.sh 
+  809  ./time-signal.sh 
+  810  vim time-signal.sh 
+  811  ./time-signal.sh 
+  812  vim time-signal.sh 
+  813  ./time-signal.sh 
+  814  cp time-signal.sh /home/akhil/
+  815  history
+  816  history >> workinghistory.txt
